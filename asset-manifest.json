@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/weatherapi/static/css/main.49a06721.css",
+    "main.js": "/weatherapi/static/js/main.63ddbc29.js",
+    "static/js/787.c6e770fe.chunk.js": "/weatherapi/static/js/787.c6e770fe.chunk.js",
+    "static/media/day.jpeg": "/weatherapi/static/media/day.e20e72a0e176f118ff34.jpeg",
+    "static/media/night.jpg": "/weatherapi/static/media/night.3f1bd285ad7d107026ad.jpg",
+    "index.html": "/weatherapi/index.html",
+    "main.49a06721.css.map": "/weatherapi/static/css/main.49a06721.css.map",
+    "main.63ddbc29.js.map": "/weatherapi/static/js/main.63ddbc29.js.map",
+    "787.c6e770fe.chunk.js.map": "/weatherapi/static/js/787.c6e770fe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49a06721.css",
+    "static/js/main.63ddbc29.js"
+  ]
+}
